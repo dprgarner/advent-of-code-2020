@@ -3,3 +3,4 @@
 .vscode
 .python-version
 large.in
+__pycache__
