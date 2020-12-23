@@ -4,3 +4,6 @@
 .python-version
 large.in
 __pycache__
+
+*.dSYM
+
